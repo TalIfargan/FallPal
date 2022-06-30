@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">FallPal</string>
+    <string name="devices">Bluetooth Devices</string>
+    <!-- Preference Titles -->
+    <string name="personal_info">Personal Information</string>
+    <string name="contacts_info">Emergency Contacts Information</string>
+
+    <!-- Messages Preferences -->
+    <string name="user_name">Your name</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="first_contact">First emergency contact</string>
+    <string name="contact_name_1">First contact name</string>
+    <string name="contact_number_1">First contact number</string>
+    <string name="contact_email_1">First contact email address</string>
+
+    <string name="second_contact">Second emergency contact (optional)</string>
+    <string name="contact_name_2">Second contact name</string>
+    <string name="contact_number_2">Second contact number</string>
+    <string name="contact_email_2">Second contact email address</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="submit_details">Submit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
